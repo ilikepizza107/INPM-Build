@@ -16,8 +16,8 @@
 15 - Spear Pillar
 16 - Port Town
 17 - Infinite Glacier
-18 - Flat Zone
-19 - Castle Siege
+18 - Castle Siege
+19 - Flat Zone
 1C - Wario Land
 1D - Distant Planet
 1E - Skyworld
